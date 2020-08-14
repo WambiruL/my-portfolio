@@ -16,7 +16,7 @@
  Lorraine Wambui.
 
 # License
- MIT &copy; Lorraine
+ MIT &copy; <a href>WambiruL</a>
 
 
   
