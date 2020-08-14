@@ -35,8 +35,11 @@ h1 {
     border:4px ridge red;
     padding: 6px;
     width: 350px;
+    height: 350px;
     float: left;
     background-image: url(../images/line2.jpg);
+    font-size: 18px;
+    line-height: 3em;
 }
 img{
     border-radius: 50%;
@@ -45,8 +48,8 @@ h2 #hello{
     font-size: 30px;
     
 }
+
 ul {
     list-style: lower-alpha;
     list-style-position: inside;
 }
-
