@@ -53,3 +53,8 @@ ul {
     list-style: lower-alpha;
     list-style-position: inside;
 }
+span{
+    border: 2px solid black;
+    color: black;
+    background-color: darkslategrey;
+}
