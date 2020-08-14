@@ -8,7 +8,7 @@ h1 {
     
 }
  body{
-     background-image: url(../images/fireworks.gif);
+     background-image: url(../images/fireworks3.gif);
  }
  p {
      font-size: 24px ;
@@ -23,7 +23,7 @@ h1 {
 }
 #hello{
     text-align: center;
-    color: black;
+    color: darkturquoise;
     font-style: oblique;
     font-size: 24px;
 }
