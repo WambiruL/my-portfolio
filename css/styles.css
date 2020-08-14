@@ -14,7 +14,7 @@ h1 {
      font-size: 24px ;
  }
  .sidenav{
-    float: left;
+    float: right;
     border: 4px solid green;
     padding: 8px;
     background-color: white;
@@ -28,14 +28,15 @@ h1 {
     font-style: oblique;
     font-size: 24px;
     float: right;
+    font-weight: bold;
 }
 .hobbies{
     color: khaki;
-    border: 4px solid red;
+    border:4px ridge red;
     padding: 6px;
     width: 350px;
-    float: right;
-    background-color: lightslategray;
+    float: left;
+    background-image: url(../images/line2.jpg);
 }
 img{
     border-radius: 50%;
@@ -43,5 +44,9 @@ img{
 h2 #hello{
     font-size: 30px;
     
+}
+ul {
+    list-style: lower-alpha;
+    list-style-position: inside;
 }
 
