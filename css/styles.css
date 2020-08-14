@@ -23,6 +23,7 @@ img{
     padding: 8px;
     background-color: gray;
     height: 50%;
+    
 }
 #hello{
     text-align: center;
@@ -35,5 +36,7 @@ img{
     width: 350px;
     float: right;
 }
-
+img{
+    border-radius: 50%;
+}
 
