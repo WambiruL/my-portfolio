@@ -3,7 +3,7 @@ h1 {
     background-color: palevioletred;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 100px;
-    border: 4px solid grey;
+    border: 4px ridge grey;
     padding: 40px;
     
 }
