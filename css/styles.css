@@ -8,7 +8,7 @@ h1 {
     
 }
  body{
-     background-image: url(../images/fireworks3.gif);
+     background-image: url(../images/fireworks.gif);
  }
  p {
      font-size: 24px ;
@@ -19,6 +19,7 @@ h1 {
     padding: 8px;
     background-color: white;
     height: 50%;
+    color: green;
     
 }
 #hello{
@@ -26,6 +27,7 @@ h1 {
     color: darkturquoise;
     font-style: oblique;
     font-size: 24px;
+    float: right;
 }
 .hobbies{
     color: khaki;
@@ -33,6 +35,7 @@ h1 {
     padding: 6px;
     width: 350px;
     float: right;
+    background-color: lightslategray;
 }
 img{
     border-radius: 50%;
