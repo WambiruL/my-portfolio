@@ -15,6 +15,10 @@
 # Contributors
  Lorraine Wambui.
 
+# License
+ MIT &copy; Lorraine
+
+
   
 
  
