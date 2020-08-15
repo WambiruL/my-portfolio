@@ -20,14 +20,13 @@ h1 {
     height: 50%;
     color: green;
     text-align: center ;
+    width: 29%;
     
 }
 #hello{
-    text-align: center;
     color: darkturquoise;
     font-style: oblique;
     font-size: 24px;
-    float: right;
     font-weight: bold;
 }
 .hobbies{
