@@ -3,7 +3,6 @@
 
  # Demo
   Here is a working live demo : https://wambirul.github.io/my-portfolio/
-
 # Built with
  1. HTML - Creates the basic page for the website.
  2. CSS - Helps to add the styles to HTML page.
