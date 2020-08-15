@@ -15,7 +15,7 @@
  Lorraine Wambui.
 
 # License
- MIT &copy; <a href>WambiruL</a>
+ This project is licensed by MIT.
 
 
   
