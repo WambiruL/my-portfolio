@@ -18,8 +18,9 @@ h1 {
     padding: 8px;
     background-color: white;
     height: 50%;
-    color: green;
+    color: darkgreen;
     text-align: center ;
+    width: 20%;
     
 }
 #hello{
@@ -55,4 +56,14 @@ span{
     border: 2px solid black;
     color: black;
     background-color: darkslategrey;
+}
+
+.sidebar p{
+    color: black;
+}
+#hello h2{
+    color: darksalmon;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
 }
